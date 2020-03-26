@@ -1,1 +1,1 @@
-# Automatic-Eye-Gaze-Tracking-System
+# Automatic Eye Gaze Tracking System
